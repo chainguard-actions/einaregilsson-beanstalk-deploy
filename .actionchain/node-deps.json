@@ -1,0 +1,9 @@
+{
+  "status": "self_contained",
+  "entries": [
+    {
+      "path": "beanstalk-deploy.js",
+      "status": "self_contained"
+    }
+  ]
+}
